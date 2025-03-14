@@ -1,3 +1,4 @@
+
 #!/usr/bin/env bash
 # Copyright (C) 2020 Private Internet Access, Inc.
 #
